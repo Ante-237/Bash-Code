@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-#A script that reads each lineof the text file
-echo "Folder1" > text.txt
-echo "FOlder2" >> text.txt
-echo "Folder3" >> text.txt
-echo "Folder4" >> text.txt
-while read -r line; do
-touch "$line"
-done <text.txt
