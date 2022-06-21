@@ -8,4 +8,4 @@ read num2
 
 ans=$(( $num1 * $num2))
 echo "The product of $num1 and $num2 is $ans"
-![BASH SCRIPT_LCS_CODE](https://user-images.githubusercontent.com/92328277/174792054-300a7ce2-a77f-4c42-9955-b7c4946b178f.PNG)
+[BASH SCRIPT_LCS_CODE](https://user-images.githubusercontent.com/92328277/174792054-300a7ce2-a77f-4c42-9955-b7c4946b178f.PNG)
